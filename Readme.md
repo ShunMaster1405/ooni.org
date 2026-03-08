@@ -21,7 +21,7 @@ Then throw in some spare change and help us bring about some change :)
 Don't have much coin? No problemo. You can also volunteer your time and it can make a huge difference.
 
 **Join our Slack channel:** [https://slack.ooni.org/](https://slack.ooni.org/)
-
+ 
 ---
 
 ## Nerd stuff for the website
